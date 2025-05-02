@@ -1,0 +1,1074 @@
+{
+    "aatrox_top": [
+        1.75,
+        281
+    ],
+    "aatrox_mid": [
+        10.75,
+        1
+    ],
+    "ahri_top": [
+        4.0,
+        2
+    ],
+    "ahri_mid": [
+        2.0,
+        253
+    ],
+    "akali_top": [
+        3.5,
+        6
+    ],
+    "akali_mid": [
+        1.0,
+        88
+    ],
+    "akshan_top": [
+        -4.75,
+        1
+    ],
+    "alistar_sup": [
+        0.5,
+        389
+    ],
+    "ambessa_top": [
+        -0.5,
+        111
+    ],
+    "ambessa_mid": [
+        5.0,
+        3
+    ],
+    "amumu_jungle": [
+        -1.25,
+        11
+    ],
+    "amumu_sup": [
+        -1.25,
+        1
+    ],
+    "anivia_top": [
+        14.0,
+        3
+    ],
+    "anivia_mid": [
+        -12.5,
+        1
+    ],
+    "annie_mid": [
+        3.375,
+        36
+    ],
+    "annie_sup": [
+        -6.5,
+        3
+    ],
+    "aphelios_adc": [
+        -1.875,
+        70
+    ],
+    "ashe_adc": [
+        -0.5,
+        218
+    ],
+    "ashe_sup": [
+        1.625,
+        90
+    ],
+    "aurelion sol_mid": [
+        1.75,
+        60
+    ],
+    "aurora_top": [
+        -0.25,
+        32
+    ],
+    "aurora_mid": [
+        1.25,
+        67
+    ],
+    "azir_mid": [
+        0.5,
+        480
+    ],
+    "bard_sup": [
+        -0.875,
+        58
+    ],
+    "bel'veth_jungle": [
+        5.5,
+        5
+    ],
+    "blitzcrank_sup": [
+        1.625,
+        48
+    ],
+    "brand_jungle": [
+        0.875,
+        174
+    ],
+    "braum_sup": [
+        -1.25,
+        211
+    ],
+    "caitlyn_mid": [
+        -2.25,
+        1
+    ],
+    "caitlyn_adc": [
+        -2.0,
+        57
+    ],
+    "camille_top": [
+        -0.75,
+        86
+    ],
+    "camille_sup": [
+        0.0,
+        9
+    ],
+    "cassiopeia_top": [
+        -3.5,
+        1
+    ],
+    "cassiopeia_mid": [
+        -1.25,
+        4
+    ],
+    "cho'gath_top": [
+        -7.0,
+        7
+    ],
+    "cho'gath_mid": [
+        10.5,
+        2
+    ],
+    "corki_top": [
+        0.375,
+        6
+    ],
+    "corki_mid": [
+        0.0,
+        514
+    ],
+    "corki_adc": [
+        1.875,
+        56
+    ],
+    "darius_top": [
+        2.5,
+        17
+    ],
+    "diana_jungle": [
+        -0.25,
+        15
+    ],
+    "diana_mid": [
+        9.0,
+        3
+    ],
+    "dr. mundo_top": [
+        2.875,
+        8
+    ],
+    "dr. mundo_jungle": [
+        -1.125,
+        4
+    ],
+    "draven_mid": [
+        0.25,
+        7
+    ],
+    "draven_adc": [
+        1.75,
+        79
+    ],
+    "elise_sup": [
+        1.75,
+        25
+    ],
+    "evelynn_jungle": [
+        16.0,
+        1
+    ],
+    "ezreal_mid": [
+        -4.875,
+        16
+    ],
+    "ezreal_adc": [
+        -0.5,
+        439
+    ],
+    "ezreal_sup": [
+        7.25,
+        3
+    ],
+    "fiddlesticks_top": [
+        4.5,
+        1
+    ],
+    "fiddlesticks_jungle": [
+        0.0,
+        3
+    ],
+    "fiddlesticks_sup": [
+        7.0,
+        1
+    ],
+    "fiora_top": [
+        -6.5,
+        7
+    ],
+    "galio_top": [
+        -1.875,
+        20
+    ],
+    "galio_mid": [
+        1.125,
+        36
+    ],
+    "galio_sup": [
+        -10.25,
+        3
+    ],
+    "gangplank_top": [
+        1.0,
+        17
+    ],
+    "garen_top": [
+        -0.75,
+        8
+    ],
+    "garen_mid": [
+        0.625,
+        2
+    ],
+    "gnar_top": [
+        0.5,
+        279
+    ],
+    "gragas_top": [
+        0.0,
+        57
+    ],
+    "gragas_jungle": [
+        10.0,
+        3
+    ],
+    "gragas_mid": [
+        17.5,
+        2
+    ],
+    "gragas_sup": [
+        -6.0,
+        5
+    ],
+    "graves_jungle": [
+        -0.625,
+        44
+    ],
+    "gwen_top": [
+        -0.5,
+        89
+    ],
+    "gwen_jungle": [
+        2.0,
+        3
+    ],
+    "heimerdinger_sup": [
+        0.625,
+        8
+    ],
+    "hwei_mid": [
+        0.0,
+        174
+    ],
+    "hwei_adc": [
+        -2.25,
+        1
+    ],
+    "hwei_sup": [
+        7.0,
+        5
+    ],
+    "irelia_top": [
+        4.5,
+        3
+    ],
+    "irelia_mid": [
+        7.75,
+        2
+    ],
+    "ivern_jungle": [
+        -3.0,
+        94
+    ],
+    "janna_sup": [
+        4.25,
+        4
+    ],
+    "jarvan iv_jungle": [
+        1.0,
+        49
+    ],
+    "jax_top": [
+        1.0,
+        174
+    ],
+    "jax_jungle": [
+        0.25,
+        63
+    ],
+    "jayce_top": [
+        0.75,
+        147
+    ],
+    "jayce_mid": [
+        1.5,
+        43
+    ],
+    "jhin_mid": [
+        6.5,
+        1
+    ],
+    "jhin_adc": [
+        1.25,
+        183
+    ],
+    "jinx_adc": [
+        0.75,
+        117
+    ],
+    "k'sante_top": [
+        0.0,
+        733
+    ],
+    "k'sante_mid": [
+        2.625,
+        2
+    ],
+    "kai'sa_mid": [
+        -4.75,
+        5
+    ],
+    "kai'sa_adc": [
+        1.625,
+        318
+    ],
+    "kalista_top": [
+        -0.5,
+        1
+    ],
+    "kalista_adc": [
+        1.0,
+        319
+    ],
+    "kalista_sup": [
+        6.5,
+        5
+    ],
+    "karma_top": [
+        2.5,
+        7
+    ],
+    "karma_mid": [
+        0.75,
+        148
+    ],
+    "karma_sup": [
+        -4.5,
+        45
+    ],
+    "karthus_jungle": [
+        0.75,
+        43
+    ],
+    "kassadin_mid": [
+        -4.5,
+        4
+    ],
+    "kayn_jungle": [
+        6.5,
+        1
+    ],
+    "kennen_top": [
+        1.75,
+        111
+    ],
+    "kennen_mid": [
+        5.0,
+        1
+    ],
+    "kha'zix_jungle": [
+        4.0,
+        11
+    ],
+    "kindred_jungle": [
+        1.5,
+        40
+    ],
+    "kled_top": [
+        2.5,
+        1
+    ],
+    "kog'maw_adc": [
+        -6.625,
+        6
+    ],
+    "leblanc_mid": [
+        0.0,
+        83
+    ],
+    "lee sin_top": [
+        7.75,
+        2
+    ],
+    "lee sin_jungle": [
+        2.0,
+        225
+    ],
+    "lee sin_mid": [
+        -8.75,
+        4
+    ],
+    "lee sin_sup": [
+        1.0,
+        1
+    ],
+    "leona_sup": [
+        1.25,
+        395
+    ],
+    "lillia_jungle": [
+        -0.5,
+        207
+    ],
+    "lissandra_mid": [
+        4.0,
+        3
+    ],
+    "lucian_mid": [
+        2.0,
+        141
+    ],
+    "lucian_adc": [
+        -2.0,
+        185
+    ],
+    "lulu_top": [
+        -9.0,
+        1
+    ],
+    "lulu_sup": [
+        -4.75,
+        84
+    ],
+    "lux_sup": [
+        -4.75,
+        7
+    ],
+    "malphite_top": [
+        1.625,
+        16
+    ],
+    "malzahar_mid": [
+        15.0,
+        3
+    ],
+    "maokai_top": [
+        -2.125,
+        12
+    ],
+    "maokai_jungle": [
+        -0.5,
+        314
+    ],
+    "maokai_sup": [
+        2.375,
+        82
+    ],
+    "mel_mid": [
+        14.0,
+        3
+    ],
+    "mel_adc": [
+        -12.5,
+        1
+    ],
+    "milio_sup": [
+        -2.5,
+        97
+    ],
+    "miss fortune_adc": [
+        0.0,
+        240
+    ],
+    "mordekaiser_top": [
+        -0.5,
+        28
+    ],
+    "morgana_jungle": [
+        3.0,
+        8
+    ],
+    "naafiri_jungle": [
+        -1.375,
+        76
+    ],
+    "naafiri_mid": [
+        1.75,
+        1
+    ],
+    "nami_sup": [
+        -2.0,
+        131
+    ],
+    "nasus_top": [
+        -0.75,
+        12
+    ],
+    "nasus_mid": [
+        3.5,
+        7
+    ],
+    "nautilus_top": [
+        0.5,
+        1
+    ],
+    "nautilus_jungle": [
+        -8.25,
+        1
+    ],
+    "nautilus_sup": [
+        2.0,
+        563
+    ],
+    "neeko_top": [
+        3.375,
+        2
+    ],
+    "neeko_mid": [
+        2.5,
+        70
+    ],
+    "neeko_sup": [
+        1.875,
+        92
+    ],
+    "nidalee_top": [
+        4.0,
+        13
+    ],
+    "nidalee_jungle": [
+        -1.75,
+        153
+    ],
+    "nilah_adc": [
+        -6.0,
+        13
+    ],
+    "nocturne_jungle": [
+        1.5,
+        80
+    ],
+    "olaf_top": [
+        2.25,
+        29
+    ],
+    "olaf_jungle": [
+        0.5,
+        4
+    ],
+    "orianna_mid": [
+        0.0,
+        183
+    ],
+    "ornn_top": [
+        0.25,
+        82
+    ],
+    "ornn_sup": [
+        2.0,
+        51
+    ],
+    "pantheon_top": [
+        6.5,
+        1
+    ],
+    "pantheon_jungle": [
+        1.5,
+        67
+    ],
+    "pantheon_mid": [
+        1.0,
+        3
+    ],
+    "pantheon_sup": [
+        5.75,
+        8
+    ],
+    "poppy_top": [
+        1.5,
+        76
+    ],
+    "poppy_jungle": [
+        -0.25,
+        113
+    ],
+    "poppy_sup": [
+        0.75,
+        69
+    ],
+    "pyke_sup": [
+        3.0,
+        17
+    ],
+    "quinn_top": [
+        1.25,
+        5
+    ],
+    "rakan_sup": [
+        0.25,
+        428
+    ],
+    "rammus_jungle": [
+        1.0,
+        2
+    ],
+    "rammus_adc": [
+        -4.0,
+        1
+    ],
+    "rek'sai_top": [
+        0.5,
+        52
+    ],
+    "rek'sai_jungle": [
+        4.5,
+        13
+    ],
+    "rell_jungle": [
+        1.5,
+        129
+    ],
+    "rell_sup": [
+        1.5,
+        462
+    ],
+    "renata glasc_sup": [
+        0.0,
+        217
+    ],
+    "renekton_top": [
+        0.25,
+        417
+    ],
+    "renekton_mid": [
+        3.375,
+        4
+    ],
+    "rengar_jungle": [
+        0.5,
+        6
+    ],
+    "rumble_top": [
+        2.0,
+        266
+    ],
+    "rumble_jungle": [
+        7.75,
+        4
+    ],
+    "rumble_sup": [
+        7.0,
+        26
+    ],
+    "ryze_top": [
+        -1.75,
+        7
+    ],
+    "ryze_mid": [
+        0.75,
+        77
+    ],
+    "samira_adc": [
+        8.25,
+        7
+    ],
+    "sejuani_top": [
+        -8.75,
+        4
+    ],
+    "sejuani_jungle": [
+        0.125,
+        452
+    ],
+    "sejuani_sup": [
+        2.0,
+        4
+    ],
+    "senna_adc": [
+        2.0,
+        239
+    ],
+    "senna_sup": [
+        1.25,
+        25
+    ],
+    "seraphine_adc": [
+        5.75,
+        12
+    ],
+    "seraphine_sup": [
+        -3.5,
+        19
+    ],
+    "sett_top": [
+        6.5,
+        1
+    ],
+    "sett_mid": [
+        -13.75,
+        1
+    ],
+    "sett_sup": [
+        10.5,
+        1
+    ],
+    "shaco_jungle": [
+        -0.5,
+        1
+    ],
+    "shen_top": [
+        -3.375,
+        2
+    ],
+    "shen_jungle": [
+        -10.5,
+        1
+    ],
+    "shen_sup": [
+        5.75,
+        3
+    ],
+    "shyvana_top": [
+        3.75,
+        2
+    ],
+    "shyvana_jungle": [
+        3.5,
+        15
+    ],
+    "singed_top": [
+        10.0,
+        1
+    ],
+    "sion_top": [
+        1.625,
+        86
+    ],
+    "sion_mid": [
+        4.875,
+        2
+    ],
+    "sion_adc": [
+        -7.0,
+        1
+    ],
+    "sion_sup": [
+        5.0,
+        3
+    ],
+    "sivir_adc": [
+        -1.75,
+        26
+    ],
+    "skarner_top": [
+        1.5,
+        85
+    ],
+    "skarner_jungle": [
+        0.5,
+        87
+    ],
+    "smolder_top": [
+        -0.625,
+        6
+    ],
+    "smolder_mid": [
+        1.375,
+        38
+    ],
+    "smolder_adc": [
+        1.0,
+        126
+    ],
+    "sona_sup": [
+        -0.625,
+        2
+    ],
+    "soraka_sup": [
+        -7.75,
+        1
+    ],
+    "swain_top": [
+        13.0,
+        2
+    ],
+    "swain_mid": [
+        -12.0,
+        1
+    ],
+    "swain_adc": [
+        -0.625,
+        2
+    ],
+    "sylas_top": [
+        4.5,
+        3
+    ],
+    "sylas_mid": [
+        1.625,
+        66
+    ],
+    "syndra_mid": [
+        -2.25,
+        15
+    ],
+    "tahm kench_sup": [
+        1.0,
+        106
+    ],
+    "taliyah_jungle": [
+        2.25,
+        33
+    ],
+    "taliyah_mid": [
+        1.5,
+        397
+    ],
+    "taliyah_adc": [
+        7.75,
+        1
+    ],
+    "taric_sup": [
+        -0.625,
+        6
+    ],
+    "thresh_sup": [
+        2.0,
+        21
+    ],
+    "tristana_top": [
+        -2.0,
+        3
+    ],
+    "tristana_mid": [
+        -0.5,
+        309
+    ],
+    "tristana_adc": [
+        -2.25,
+        28
+    ],
+    "trundle_jungle": [
+        0.375,
+        10
+    ],
+    "tryndamere_mid": [
+        7.5,
+        2
+    ],
+    "twisted fate_top": [
+        0.5,
+        109
+    ],
+    "twisted fate_mid": [
+        0.75,
+        19
+    ],
+    "twisted fate_adc": [
+        4.875,
+        14
+    ],
+    "twitch_adc": [
+        12.5,
+        5
+    ],
+    "udyr_top": [
+        0.25,
+        148
+    ],
+    "urgot_top": [
+        -0.125,
+        18
+    ],
+    "varus_top": [
+        3.75,
+        9
+    ],
+    "varus_mid": [
+        -9.5,
+        2
+    ],
+    "varus_adc": [
+        2.375,
+        476
+    ],
+    "varus_sup": [
+        -1.25,
+        3
+    ],
+    "vayne_top": [
+        2.0,
+        16
+    ],
+    "vayne_adc": [
+        6.5,
+        1
+    ],
+    "veigar_mid": [
+        2.25,
+        12
+    ],
+    "vex_top": [
+        -7.5,
+        1
+    ],
+    "vex_mid": [
+        10.0,
+        3
+    ],
+    "vi_jungle": [
+        1.75,
+        330
+    ],
+    "viego_jungle": [
+        1.0,
+        211
+    ],
+    "viktor_mid": [
+        -0.875,
+        76
+    ],
+    "vladimir_top": [
+        7.0,
+        5
+    ],
+    "volibear_top": [
+        -0.875,
+        6
+    ],
+    "volibear_jungle": [
+        2.75,
+        57
+    ],
+    "warwick_top": [
+        -1.5,
+        3
+    ],
+    "wukong_top": [
+        -2.0,
+        7
+    ],
+    "wukong_jungle": [
+        1.0,
+        79
+    ],
+    "wukong_sup": [
+        4.0,
+        1
+    ],
+    "xayah_adc": [
+        1.5,
+        171
+    ],
+    "xin zhao_jungle": [
+        1.5,
+        416
+    ],
+    "yasuo_top": [
+        1.75,
+        11
+    ],
+    "yasuo_mid": [
+        1.5,
+        20
+    ],
+    "yasuo_adc": [
+        2.5,
+        4
+    ],
+    "yone_top": [
+        1.0,
+        24
+    ],
+    "yone_mid": [
+        0.75,
+        242
+    ],
+    "yorick_top": [
+        -4.5,
+        29
+    ],
+    "yuumi_sup": [
+        -1.625,
+        14
+    ],
+    "zac_top": [
+        1.75,
+        37
+    ],
+    "zac_jungle": [
+        5.75,
+        11
+    ],
+    "zac_mid": [
+        0.5,
+        1
+    ],
+    "zed_jungle": [
+        -1.125,
+        2
+    ],
+    "zed_mid": [
+        -0.125,
+        2
+    ],
+    "zeri_top": [
+        16.0,
+        2
+    ],
+    "zeri_mid": [
+        -1.75,
+        94
+    ],
+    "zeri_adc": [
+        0.25,
+        324
+    ],
+    "ziggs_mid": [
+        -2.75,
+        17
+    ],
+    "ziggs_adc": [
+        -0.125,
+        118
+    ],
+    "zilean_mid": [
+        -7.0,
+        1
+    ],
+    "zilean_sup": [
+        5.0,
+        3
+    ],
+    "zyra_jungle": [
+        0.5,
+        187
+    ],
+    "zyra_sup": [
+        -2.75,
+        3
+    ]
+}
